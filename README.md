@@ -208,7 +208,7 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
- ![exp4out](https://github.com/balaji-21005757/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94372294/d64151a1-4a0a-4afc-8ab9-f016ee02236a)
+ ![exp4out](./opj.jpeg)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
